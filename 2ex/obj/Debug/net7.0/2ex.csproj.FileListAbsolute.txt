@@ -1,0 +1,15 @@
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\2ex\bin\Debug\net7.0\2ex.exe
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\2ex\bin\Debug\net7.0\2ex.deps.json
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\2ex\bin\Debug\net7.0\2ex.runtimeconfig.json
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\2ex\bin\Debug\net7.0\2ex.dll
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\2ex\bin\Debug\net7.0\2ex.pdb
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\2ex\obj\Debug\net7.0\2ex.csproj.AssemblyReference.cache
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\2ex\obj\Debug\net7.0\2ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\2ex\obj\Debug\net7.0\2ex.AssemblyInfoInputs.cache
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\2ex\obj\Debug\net7.0\2ex.AssemblyInfo.cs
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\2ex\obj\Debug\net7.0\2ex.csproj.CoreCompileInputs.cache
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\2ex\obj\Debug\net7.0\2ex.dll
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\2ex\obj\Debug\net7.0\refint\2ex.dll
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\2ex\obj\Debug\net7.0\2ex.pdb
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\2ex\obj\Debug\net7.0\2ex.genruntimeconfig.cache
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\2ex\obj\Debug\net7.0\ref\2ex.dll
