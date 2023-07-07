@@ -1,0 +1,15 @@
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\1ex\obj\Debug\net7.0\1ex.csproj.AssemblyReference.cache
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\1ex\obj\Debug\net7.0\1ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\1ex\obj\Debug\net7.0\1ex.AssemblyInfoInputs.cache
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\1ex\obj\Debug\net7.0\1ex.AssemblyInfo.cs
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\1ex\obj\Debug\net7.0\1ex.csproj.CoreCompileInputs.cache
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\1ex\bin\Debug\net7.0\1ex.exe
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\1ex\bin\Debug\net7.0\1ex.deps.json
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\1ex\bin\Debug\net7.0\1ex.runtimeconfig.json
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\1ex\bin\Debug\net7.0\1ex.dll
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\1ex\bin\Debug\net7.0\1ex.pdb
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\1ex\obj\Debug\net7.0\1ex.dll
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\1ex\obj\Debug\net7.0\refint\1ex.dll
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\1ex\obj\Debug\net7.0\1ex.pdb
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\1ex\obj\Debug\net7.0\1ex.genruntimeconfig.cache
+C:\Users\настя\Desktop\учеба\c# практическое4\Practicheskoe8\1ex\obj\Debug\net7.0\ref\1ex.dll
